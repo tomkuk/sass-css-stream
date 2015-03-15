@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/rotundasoftware/sass-css-stream",
   "dependencies": {
-    "node-sass": "~0.8.1",
+    "node-sass": "3.0.0-pre",
     "through": "~2.3.4"
   }
 }
